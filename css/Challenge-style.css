@@ -1,0 +1,31 @@
+body
+{
+  margin: 0;
+}
+div
+{
+  align-items: flex-start;
+  background-color: #6E7582;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  padding: solid 20px;
+}
+.middle
+{
+  align-items: center;
+ background-color: red;
+ height: 200px;
+ width: 200px;
+ margin-left: 220px;
+ border: solid 20px;
+}
+.bottom
+{
+  align-items: flex-end;
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  margin-left: 460px;
+  border: solid 10px;
+}

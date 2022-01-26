@@ -1,0 +1,30 @@
+body
+{
+  margin: 0;
+}
+.top
+{
+  background-color: red;
+  position: relative;
+  left: 400px;
+  height: 200px;
+  width: 200px;
+}
+.middle
+{
+ background-color: blue;
+ position: relative;
+ left: 200px;
+ bottom: 200px;
+ height: 200px;
+ width: 200px;
+}
+.bottom
+{
+  background-color: yellow;
+  position: relative;
+  left: 000px;
+  bottom: 400px;
+  height: 200px;
+  width: 200px;
+}
